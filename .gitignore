@@ -1,0 +1,12 @@
+# ignore settings
+/.settings/
+
+# ignore bin folder
+/bin/
+
+# ignore .classpath
+.classpath
+
+# ignore .project
+.project
+/.metadata/
